@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DhanushkaRanasinghe&theme=buefy-dark&hide_border=true&background=DD272700)](https://git.io/streak-stats)
+
 <!--
 **DhanushkaRanasinghe/DhanushkaRanasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
